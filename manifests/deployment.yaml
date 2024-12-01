@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: prachiii123/skate:1.0 
+          image: deepakvakkala123/skateboard:1.0 
           ports:
             - containerPort: 80
               protocol: TCP
